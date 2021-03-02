@@ -1,4 +1,4 @@
-ls = [1,2,'a','b']
-lst = [int(i) if i.isdigit() else i for i in ls ] 
+ls = [1, 2, 'a', 'b']
+lst = [int(i) for i in str(ls) if i.isdigit()]
 
 print(lst)
