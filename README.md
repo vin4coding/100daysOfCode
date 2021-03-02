@@ -1,3 +1,3 @@
 # 100daysOfCode
 
-Working on different code challenges
+Daily Python code challenges
